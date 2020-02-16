@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RNCD</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">b0fe9ecd-1d93-47e0-abed-8fd545f07c04</string>
+</resources>
